@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pizza/modules/binchi_page/view/ekinchi_view.dart';
+import 'package:pizza/modules/%20first_page/view/ekinchi_view.dart';
 
 class BirinchiView extends StatelessWidget {
   const BirinchiView({super.key});
